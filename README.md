@@ -2,9 +2,7 @@
 # Female Uniform Detection System
 
 ## 🚀 About Female Uniform Detection System
- This system will detect uniform of females of University of Sargodha. This system is designed for a custom dataset. You can find custom dataset in FYP_Coding_Task/dataset. 
-
- 
+ This system will detect uniform of females of University of Sargodha. This system is designed for a custom dataset. You can find custom dataset in [FYP_Coding_Task/dataset](https://github.com/Mahnoor2019/FemaleUniformDetectionSystem_FYP/tree/main/FYP_Coding_Task/dataset). 
 
 
 ## Python Distribution and IDE
@@ -37,3 +35,26 @@ Once you have created the environment, you can verify it by activating the envir
 conda install python=3.8
 ```
 This will install python library in “myenv”.
+
+### Important Libraries 
+
+- Install some important packages used in the development of project i.e. keras, tensorflow, Sequential, Conv2D, MaxPooling2D, Flatten, Activation, Dropout, Dense.
+- Use custom dataset provided in repository place it on local storage on your system (Laptop or computer) with the same name as given in this project.
+
+### Add environment in PyCharm
+
+Go to PyCharm IDE
+- Create New project 
+- Expand Project Interpreter option 
+- Select Existing Interpreter 
+- Click on three dots 
+- Locate your_environment_name.
+
+(Also make this environment available for other projects that will be created in future, So select “Make available to all projects’ checkbox.)
+
+Download project from [Github Repository](https://github.com/Mahnoor2019/FemaleUniformDetectionSystem_FYP) and run in PyCharm IDE.
+
+
+## Guidelines
+
+Keep an eye on indentation that really matters in python for successful running of code.
